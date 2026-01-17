@@ -6,5 +6,5 @@ def main():
     
 if __name__ == '__main__':   # Этот код будет выполнен только при запуске скрипта напрямую
     main()
- 
+ # changes made from remote repos
 
