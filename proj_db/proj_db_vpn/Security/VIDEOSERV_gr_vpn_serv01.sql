@@ -1,0 +1,6 @@
+CREATE LOGIN [VIDEOSERV\gr_vpn_serv01]
+    FROM WINDOWS WITH DEFAULT_LANGUAGE = [us_english];
+
+
+GO
+

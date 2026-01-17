@@ -1,0 +1,5 @@
+{
+    "dataworkspace.excludedProjects": [
+        "proj_db/vpn_projdb/vpn_projdb.sqlproj"
+    ]
+}
